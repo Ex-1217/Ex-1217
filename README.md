@@ -1,16 +1,21 @@
-## Hi there 👋
+# Carlos López Urbaneja
 
-<!--
-**Ex-1217/Ex-1217** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Buscando mi primera oportunidad como Analista SOC Nivel 1 (Blue Team)** · Barcelona
 
-Here are some ideas to get you started:
+Monto y pruebo en mi propio laboratorio proyectos de detección de amenazas y automatización con IA. La IA analiza y propone; la decisión es de una persona.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Proyectos
+
+| Proyecto | Qué hace |
+|---|---|
+| [**Portfolio de ciberseguridad**](https://github.com/Ex-1217/portfolio-ciberseguridad) | Resumen de todos mis proyectos, con el portfolio en PDF |
+| [**Laboratorio SOC: Wazuh + n8n + Jira**](https://github.com/Ex-1217/wazuh-n8n-jira-soc-automation) | Wazuh detecta, n8n abre el ticket en Jira y una IA recomienda cerrar o escalar |
+| [**Asistente de compliance**](https://github.com/Ex-1217/tfc-asistente-ciberseguridad-y-compliance) | Revisa una política de seguridad frente al RGPD, la ISO 27001 y el ENS (proyecto final del Programa IMPACT) |
+
+## 🛠️ Herramientas
+
+Wazuh · Sysmon · MITRE ATT&CK · n8n · Jira · Docker · VirtualBox · Kali Linux · Windows · Ubuntu · Groq · Gemini · Ollama
+
+## 📫 Contacto
+
+[LinkedIn](https://www.linkedin.com/in/carlos-l-08b636154)
